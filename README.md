@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?&style=flat-square&logo=Bootstrap&logoColor=White" />
   <img src="https://img.shields.io/badge/-Express.js-F5FAFB?&style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?&style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sequelize-399af3?&style=flat-square&logo=Sequelize&logoColor=black" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=flat-square&logo=postgresql&logoColor=White" />
  <img src="https://img.shields.io/badge/-Firebase-EF982C?&style=flat-square&logo=Firebase&logoColor=White"/>
 
