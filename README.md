@@ -1,7 +1,6 @@
 <div align="center">
   <p>💁🏻‍♀️ Hi, I'm Taihua. I'm a fullstack software enginner. 🥞 </p>
   <p>📍 Currently based in the New York Metropolitan area. </p>
-  <p> 👩🏻‍💻 Fast learner, team player, but also independent.</p>
   <p> </p>
 </div>
 
